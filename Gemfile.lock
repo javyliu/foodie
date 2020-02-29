@@ -50,7 +50,7 @@ GEM
     minitest (5.13.0)
     multi_json (1.14.1)
     multi_test (0.1.2)
-    rake (10.5.0)
+    rake (13.0.1)
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
       rspec-expectations (~> 3.9.0)
@@ -78,7 +78,7 @@ DEPENDENCIES
   bundler (~> 1.17)
   cucumber
   foodie!
-  rake (~> 10.0)
+  rake (~> 13.0)
   rspec (~> 3.0)
 
 BUNDLED WITH
